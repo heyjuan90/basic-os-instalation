@@ -38,4 +38,4 @@ else {
     print("no internet")
 }
 print("you're os is instald")
-e
+end()
